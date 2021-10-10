@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiFirstApp2.0</string>
+    <string name="ButtonSend">ENVIAR</string>
+    <string name="NombreReceiver">NOMBRE</string>
+</resources>
